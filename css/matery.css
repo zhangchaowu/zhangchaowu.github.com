@@ -380,7 +380,7 @@ header .go-back i {
 
 .bg-cover .container {
     position: relative;
-    color: #fff;
+    /*color: #fff;*/
     z-index: 2;
 }
 
